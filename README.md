@@ -1,4 +1,5 @@
-# SCStory
+# SCStory 
+Presented at WWW'23 [[Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583507)]
 
 ## Used libraries
 - torch 1.12
