@@ -61,3 +61,15 @@ Total 583 valid stories are found. The output is saved to output.json
 Dataset begin_date B3-P B3-R B3-F1 AMI ARI all_time eval_time train_time
 News14 2014-01-02 : 0.8928 0.8719 0.8772 0.8836 0.8172 0.3387 0.0392 0.2995
 ```
+
+### Citation
+```
+@inproceedings{yoon2023scstory,
+  title={SCStory: Self-supervised and Continual Online Story Discovery},
+  author={Yoon, Susik and Meng, Yu and Lee, Dongha and Han, Jiawei},
+  booktitle={Proceedings of the ACM Web Conference 2023},
+  pages={1853--1864},
+  year={2023}
+}
+```
+
