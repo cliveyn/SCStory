@@ -12,7 +12,7 @@ Presented at WWW'23 [[Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583507)
 - spherical_kmeans ([source](https://github.com/rfayat/spherecluster/blob/scikit_update/spherecluster/spherical_kmeans.py))
 - b3 ([source](https://github.com/m-wiesner/BCUBED/blob/master/B3score/b3.py))
 
-## Data sets (in the "Datasets" folder)
+## Data sets
 - Please go to [link](https://www.dropbox.com/sh/fu4i5lghdq18cfs/AABZvrPRXs2qal9rlpnFicBDa?dl=0)
   - Newsfeed14 ([original source](https://github.com/Priberam/news-clustering/blob/master/download_data.sh))
   - WCEP18, WCEP19 ([original source](https://github.com/complementizer/wcep-mds-dataset))
