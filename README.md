@@ -13,15 +13,14 @@ Presented at WWW'23 [[Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583507)
 - b3 ([source](https://github.com/m-wiesner/BCUBED/blob/master/B3score/b3.py))
 
 ## Data sets (in the "Datasets" folder)
-### Raw data sets
-- External link for large data sets: [link](https://www.dropbox.com/sh/fu4i5lghdq18cfs/AABZvrPRXs2qal9rlpnFicBDa?dl=0)
+- External link for raw data sets: [link](https://www.dropbox.com/sh/fu4i5lghdq18cfs/AABZvrPRXs2qal9rlpnFicBDa?dl=0)
   - Newsfeed14 ([original source](https://github.com/Priberam/news-clustering/blob/master/download_data.sh))
   - WCEP18, WCEP19 ([original source](https://github.com/complementizer/wcep-mds-dataset))
-### Case study (no ground truth)
-- Preprocessed case study results: [link]()
-
 ### Preprocessing
 Run Dataset_preprocessing.ipynb with each of the raw data sets.
+
+### Case study
+Preprocessed case study results: [link]()
 
 ## Usage
 ### Input parameters (with default values)
