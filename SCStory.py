@@ -350,7 +350,7 @@ for i in trange(num_windows):
 
 ############# Report final evaluation metrics
 df_org[['id','date','title','discovered_story']].to_json(dataset+"_output.json")
-print("Total "+str(sum(df_org.story.value_counts()>min_articles))+" valid stories are found. The output is saved to output.json")
+print("Total "+str(sum(df_org.discovered_story.value_counts()>min_articles))+" valid stories are found. The output is saved to output.json")
 if true_story:
     print("Dataset", "begin_date", "B3-P","B3-R","B3-F1","AMI","ARI","all_time","eval_time","train_time")
     print(dataset, begin_date, ":", 
